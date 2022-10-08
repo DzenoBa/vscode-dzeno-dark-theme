@@ -1,0 +1,22 @@
+{
+	"name": "dzeno-theme",
+	"displayName": "Dženo Dark Theme",
+	"description": "A dark theme made with love by Dženo",
+	"version": "1.0.0",
+	"publisher": "Dženo",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dženo Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_dzeno.json"
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dženo Dark Theme",
+  "include": "./dark_plus.json",
+  "colors": {
+    "focusBorder": "#4cba8d",
+    "progressBar.background": "#4cba8d",
+    "selection.background": "#16825d",
+    "activityBar.activeBorder": "#16825d",
+    "activityBar.activeBackground": "#16825d",
+    "activityBarBadge.background": "#DC143C",
+    "list.focusBackground": "#383838",
+    "list.activeSelectionBackground": "#383838",
+    "list.highlightForeground": "#4cba8d",
+    "statusBar.background": "#2C2D2C",
+    "statusBar.noFolderBackground": "#2C2D2C",
+    "button.background": "#16825d",
+    "button.hoverBackground": "#26926d",
+    "textLink.foreground": "#4cba8d",
+    "textLink.activeForeground": "#16825d",
+    "tab.activeBorder": "#4cba8d",
+    "pickerGroup.foreground": "#4cba8d",
+    "badge.background": "#DC143C",
+    "minimap.selectionHighlight": "#2b4641",
+    "editor.selectionBackground": "#2b4641",
+  }
+}
